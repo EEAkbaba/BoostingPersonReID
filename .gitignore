@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Actual datasets
+data/
+datasets/
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# Training outputs
+checkpoints/
+saved_models/
+outputs/
+results/
+runs/
+logs/
+
+# IDE and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
